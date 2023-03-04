@@ -1,0 +1,23 @@
+tile_page_pango
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:PANGO_CLOTHING]
+	[FILE:images/pangol-clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:448:96]
+
+[TILE_PAGE:PANGO_BODY]
+	[FILE:images/pangol-body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:160:32]
+
+[TILE_PAGE:PANGO_WORKSHOPS]
+	[FILE:images/pango_buildings.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:768:128]
+
+[TILE_PAGE:PANGO_WORKSHOP_ICONS]
+	[FILE:images/pango_workshopicon.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:32:32]
