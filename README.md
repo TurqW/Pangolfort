@@ -1,7 +1,7 @@
 # Pangolfort
- This mod replaces the default "pangolin people" with Pangols, a custom race with playable civs.
+This mod replaces the default "pangolin people" with Pangols, a custom, playable civilized race.
 
-## New Features
+## What it adds
 
 ### Pangols
 
@@ -9,15 +9,18 @@ Pangols are a race of free-spirited pangolin people with metallic coppery scales
 
  - Their scales provide some protection, modesty & warmth and make many types of clothing difficult to wear, so they have a reduced list of clothing and armor options.
  - They have their own language for naming things, distinct from the existing ones.
- - Custom graphics! by [insert_disc_2](https://www.fiverr.com/insert_disc_2)
- - 
+ - Custom graphics by [Forest Bailey](https://insert-disc-2.tumblr.com)!
 
 
 Though they can brew and drink all the standard alcohols, they gain much more benefit from:
 
 ### Orebrew
 
-Process ores at a mill or a quern to produce Orebrew, a metallic slurry that gives Pangols the nutrients they need for their metallic scales to heal. In lower metal-frequency worlds, this is sure to keep you digging.
+Process ores (including cinnabar and cobaltite) at a mill or a quern to produce Orebrew, a metallic slurry that gives Pangols the nutrients they need for their metallic scales to heal. In lower metal-frequency worlds, this is sure to keep you digging.
+
+The orebrew reaction works similarly to most stonecrafting; you can use the magnifying glass to tell it what ore to use. Given the value of ores, you may want to be a bit more aggressive in choosing what gets drunk and what gets smelted.
+
+Orebrews are stockpiled under "Drink (plant)".
 
 ### Poisons
 
@@ -30,5 +33,12 @@ Combine lye with other materials to brew poisons with various effects at the new
     - They definitely hold up a bit better than dwarves in combat (metal scales will do that)
     - They're just a bit slower to get grumpy
     - Their nobles are less demanding
+    - However, they do move slightly slower
  - Want a slightly harder experience - play as dwarves, pick a fight with your Pangol neighbors!
  - Just want to try something slightly different
+
+## Planned Future Updates
+
+Custom livestock
+Reworking poison recipes & balance
+Other balance, revisions, etc as needed

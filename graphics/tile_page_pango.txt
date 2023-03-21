@@ -2,10 +2,30 @@ tile_page_pango
 
 [OBJECT:TILE_PAGE]
 
-[TILE_PAGE:PANGO_CLOTHING]
-	[FILE:images/pangol-clothes.png]
+[TILE_PAGE:PANGOL_SCALES]
+	[FILE:images/pangol-scales.png]
 	[TILE_DIM:32:32]
-	[PAGE_DIM_PIXELS:448:96]
+	[PAGE_DIM_PIXELS:128:96]
+
+[TILE_PAGE:PANGOL_SKIN]
+	[FILE:images/pangol-skin.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:96:96]
+
+[TILE_PAGE:PANGOL_WEAR]
+	[FILE:images/pangol-smallwearables.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:448:128]
+
+[TILE_PAGE:PANGOL_HAT]
+	[FILE:images/pangol-hats.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:480:64]
+
+[TILE_PAGE:PANGOL_WEAPON]
+	[FILE:images/pangol-weapon.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:64]
 
 [TILE_PAGE:PANGO_BODY]
 	[FILE:images/pangol-body.png]
