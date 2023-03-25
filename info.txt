@@ -6,3 +6,10 @@
 [AUTHOR:Turq]
 [NAME:Pangolfort]
 [DESCRIPTION:Playable Pangolin People]
+
+
+[STEAM_TITLE:Pangolfort]
+[STEAM_DESCRIPTION:This mod replaces the default "pangolin people" with Pangols, a custom, playable civilized race with metal scales and an appetite for orebrew.]
+[STEAM_TAG:entity]
+[STEAM_TAG:creature]
+[STEAM_TAG:building]
